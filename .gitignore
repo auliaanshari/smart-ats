@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# TFX & ML Metadata
+auliaanshari-pipeline/.temp/
+*.sqlite
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
